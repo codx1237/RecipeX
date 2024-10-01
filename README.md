@@ -1,6 +1,7 @@
 # RecipeX
 
 
+https://dummyjson.com/recipes has been used for the recipes.
 
 
 <img src="https://github.com/user-attachments/assets/f4addeeb-4d33-4dd2-b830-3ea755e987a2" width="320" height="640">
